@@ -15,5 +15,5 @@ There's a data volume available at `/data/` if you need one.
 
 Todo
 ---------
-
-  [marsmensch/tcpdump]: TBD
+  * fix broken packaging
+  * upload to [marsmensch/tcpdump]
